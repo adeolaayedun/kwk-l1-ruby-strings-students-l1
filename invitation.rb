@@ -10,4 +10,5 @@ date = gets
 puts "What is the time?"
 time = gets
 
-
+puts "Who is hosting the party?"
+host_name = gets
