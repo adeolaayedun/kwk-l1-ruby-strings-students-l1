@@ -1,6 +1,13 @@
 puts "What's your name?" 
 guest_name = gets
 
-puts "whats the party name?"
+puts "What's the party name?"
 party_name = gets
+
+puts "what is the date?"
+date = gets
+
+puts "What is the time?"
+time = gets
+
 
