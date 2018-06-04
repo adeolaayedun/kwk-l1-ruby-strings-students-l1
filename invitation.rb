@@ -1,4 +1,4 @@
 puts "What's your name?" 
-gets
+guest_name = gets
 
-puts gets
+puts guest_name
